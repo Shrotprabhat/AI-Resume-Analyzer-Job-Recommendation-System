@@ -1,0 +1,11 @@
+Job Role,Required Skills
+Data Analyst,"Python SQL Excel Pandas NumPy Power BI Tableau Statistics Data Visualization"
+Data Scientist,"Python SQL Pandas NumPy Scikit-learn Machine Learning Statistics TensorFlow Git"
+Machine Learning Engineer,"Python Machine Learning Scikit-learn TensorFlow PyTorch FastAPI Docker Git"
+AI Engineer,"Python Deep Learning TensorFlow PyTorch LLM LangChain RAG APIs Docker"
+NLP Engineer,"Python NLP Transformers Hugging Face spaCy NLTK BERT GPT LangChain"
+Computer Vision Engineer,"Python OpenCV CNN YOLO TensorFlow PyTorch Deep Learning"
+Python Developer,"Python Flask Django FastAPI SQL Git REST API OOP"
+Backend Developer,"Python Django Flask FastAPI SQL PostgreSQL REST API Docker Git"
+Data Engineer,"Python SQL PostgreSQL MongoDB Docker AWS ETL Git"
+Generative AI Engineer,"Python LLM LangChain RAG Transformers Hugging Face FastAPI Docker"

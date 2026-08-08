@@ -1,0 +1,7 @@
+Test Case ID,Resume,Expected Top Role,Actual Top Role,Match Score,Result,Comments
+TC01,Sample_Resume_1.pdf,,Data Analyst,41.27%,,Application recommended Data Analyst as the top match.
+TC02,ML_Engineer_Test_Resume.docx,Machine Learning Engineer,Machine Learning Engineer,40.8%,Pass,The system correctly identified Machine Learning Engineer as the top recommendation based on the resume's ML-related skills and experience.
+TC03,Data_Scientist_Test_Resume.docx,Data Scientist,Data Scientist,32.08%,Pass,The system correctly identified Data Scientist as the top recommendation for the data-science-focused resume.
+TC04,Python_Developer_Test_Resume.docx,Python Developer,Backend Developer,38.17%,Fail,The resume was designed for a Python Developer role, but the system ranked Backend Developer as the top recommendation.
+TC05,Generative_AI_Engineer_Test_Resume.docx,Generative AI Engineer,Generative AI Engineer,37.62%,Pass,The system correctly identified Generative AI Engineer as the top recommendation for the LLM, LangChain, RAG, and Transformer-focused resume.
+TC06,NLP_Engineer_Test_Resume.docx,NLP Engineer,NLP Engineer,50.98%,Pass,The system correctly identified NLP Engineer as the top recommendation for the NLP-focused resume.

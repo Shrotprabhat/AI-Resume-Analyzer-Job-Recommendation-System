@@ -1,0 +1,82 @@
+Category,Skill
+Programming,Python
+Programming,Java
+Programming,C
+Programming,C++
+Programming,C#
+Programming,R
+Programming,JavaScript
+Programming,TypeScript
+Programming,Go
+Programming,Rust
+Programming,PHP
+Programming,Kotlin
+Programming,Swift
+
+Database,SQL
+Database,MySQL
+Database,PostgreSQL
+Database,SQLite
+Database,MongoDB
+Database,Oracle
+Database,Firebase
+
+Data Analysis,Pandas
+Data Analysis,NumPy
+Data Analysis,Matplotlib
+Data Analysis,Seaborn
+Data Analysis,Power BI
+Data Analysis,Tableau
+Data Analysis,Excel
+
+Machine Learning,Machine Learning
+Machine Learning,Scikit-learn
+Machine Learning,XGBoost
+Machine Learning,LightGBM
+
+Deep Learning,TensorFlow
+Deep Learning,Keras
+Deep Learning,PyTorch
+
+NLP,NLP
+NLP,spaCy
+NLP,NLTK
+NLP,Transformers
+NLP,Hugging Face
+NLP,BERT
+NLP,GPT
+NLP,LLM
+NLP,RAG
+NLP,LangChain
+
+Computer Vision,OpenCV
+Computer Vision,YOLO
+Computer Vision,CNN
+
+Cloud,AWS
+Cloud,Azure
+Cloud,GCP
+
+DevOps,Docker
+DevOps,Kubernetes
+DevOps,Git
+DevOps,GitHub
+DevOps,Linux
+DevOps,CI/CD
+
+Web,HTML
+Web,CSS
+Web,React
+Web,Angular
+Web,Flask
+Web,Django
+Web,FastAPI
+
+Others,REST API
+Others,Data Structures
+Others,Algorithms
+Others,OOP
+Others,Statistics
+Others,Probability
+Others,Communication
+Others,Problem Solving
