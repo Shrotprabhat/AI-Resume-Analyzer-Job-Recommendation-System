@@ -5,6 +5,17 @@ SHROT PRABHAT
 AIML
 JUNE BATCH (C) 
 
+## 🚀 Live Demo
+
+The AI Resume Analyzer is deployed on Streamlit Community Cloud.
+
+🔗 **Live STREAMLIT Application:**  
+https://ai-resume-analyzer-job-recommendation-system-gsrmhj8frfkapphtc.streamlit.app/
+
+
+## GitHub Repository
+https://github.com/Shrotprabhat/AI-Resume-Analyzer-Job-Recommendation-System
+
 ## Overview
 
 The AI Resume Analyzer is a Streamlit-based application that analyzes resumes, extracts technical skills, recommends suitable job roles, identifies skill gaps, and generates a learning roadmap.
